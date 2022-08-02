@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Skills
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
+
+![ahnniething's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnniething&show_icons=true&theme=cobalt)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnniething&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ahnniething/ahnniething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
