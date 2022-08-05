@@ -22,12 +22,8 @@ I love programming and currently working as web developer.
 ![Spring](https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring-security&logoColor=white)
-
-<!-- ### DevOps -->
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-<!-- ### Tools -->
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 
 ## 🌱 I’m currently learning 
