@@ -1,49 +1,34 @@
 
 
-<div align="center">
 
-## Hi there, I'm JeongEun 👋
+# Hi there, I'm JeongEun 👋
 
-## 🛠 Tech Stack 🛠
 
-<div>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flate&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobx-FF9955?style=flat&logo=Mobx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/><br/>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ahnniething01@gmail.com)](mailto:ahnniething01@gmail.com)
+[![Tech-Blog Badge](http://img.shields.io/badge/-Tech--Blog-black?style=flat&logo=velog&logoColor=white&color=black&link=https://medium.com/@ahnniething)](https://medium.com/@ahnniething)
 
-</div>
+I'm a web developer.
 
-## ✨ Tools ✨
 
-<div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-</div>
 
-<br />
 
-![ahnniething's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnniething&show_icons=true&theme=cobalt)      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnniething&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 My Stack ✨
 
-</div>
+<!--### Front-End-->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flate&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white")
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Mobx](https://img.shields.io/badge/Mobx-FF9955?style=flat&logo=Mobx&logoColor=white)
 
-<!--
-**ahnniething/ahnniething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### Back-End -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 
-Here are some ideas to get you started:
+<!-- ### DevOps -->
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ### Tools -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
