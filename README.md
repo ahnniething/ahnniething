@@ -51,5 +51,5 @@ I love programming and currently working as web developer.
 
 ## 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ahnniething01@gmail.com)](mailto:ahnniething01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ahnniething@gmail.com)](mailto:ahnniething01@gmail.com)
 [![Tech-Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat&logo=medium&logoColor=white&color=black&link=https://medium.com/@ahnniething)](https://medium.com/@ahnniething)
