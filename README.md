@@ -31,7 +31,6 @@ I love programming and currently working as web developer.
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-80000?style=flat&logo=Oracle&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 
