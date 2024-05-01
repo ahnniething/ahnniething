@@ -15,6 +15,8 @@ I love programming and currently working as web developer.
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=React-Query&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=Styled-components&logoColor=white")
 ![MobX-State-Tree](https://img.shields.io/badge/MobXStateTree-FF7102?style=flat&logo=MobX-State-Tree&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white)
@@ -39,8 +41,6 @@ I love programming and currently working as web developer.
 ## 🌱 I’m currently learning 
 
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white)
-![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=React-Query&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=Apollo-GraphQL&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-1a202c?style=flat&logo=Prisma&logoColor=white)
